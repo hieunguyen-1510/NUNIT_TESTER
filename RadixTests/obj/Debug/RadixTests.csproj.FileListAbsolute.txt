@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\RadixTests.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\RadixTests.pdb
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\obj\Debug\RadixTests.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\obj\Debug\RadixTests.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\obj\Debug\RadixTests.csproj.CopyComplete
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\obj\Debug\RadixTests.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\RadixTests\obj\Debug\RadixTests.pdb

@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\bin\Debug\16_NguyenLeHoaiHieu.exe.config
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\bin\Debug\16_NguyenLeHoaiHieu.exe
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\bin\Debug\16_NguyenLeHoaiHieu.pdb
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\_16_NguyenLeHoaiHieu.Form1.resources
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\_16_NguyenLeHoaiHieu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.exe
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\16_NguyenLeHoaiHieu\obj\Debug\16_NguyenLeHoaiHieu.pdb

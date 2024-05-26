@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\HinhChuNhatTester.pdb
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.csproj.CopyComplete
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.dll
+C:\Users\ASUS\source\repos\16_NguyenLeHoaiHieu\HinhChuNhatTester\obj\Debug\HinhChuNhatTester.pdb
